@@ -1,0 +1,32 @@
+# Compiled binaries
+mm_explicit
+*.out
+*.o
+
+# Backup files
+*~
+*.swp
+
+# MacOS specific
+.DS_Store
+
+# macOS debug symbols
+*.dSYM/
+
+# Build directories
+build/
+
+# IDE
+.idea/
+
+# ----------------------------
+# draw.io backup files
+# ----------------------------
+*.bkp
+*.bak
+*.backup
+*.tmp
+*~   # common editor backups
+*.bkp
+*.dtmp
+
